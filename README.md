@@ -1,1 +1,2 @@
-https://wampsh.github.io/rsschool-cv/
+https://WampSh.github.io/rsschool-cv/cv
+
