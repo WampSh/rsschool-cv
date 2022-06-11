@@ -1,13 +1,16 @@
 
 ## **Dmitry Shelenkov** ##
 
-## Junior Full Stack Developer ##
+### Junior Full Stack Developer ###
+
+---
 
 ### My Skills: ### 
 - #####  *HTML* #####
 - #####  *CSS* #####
 - #####  *Java Script* #####
 - #####  *PHP* #####
+
 --- 
 
 ### Contacts: ###
