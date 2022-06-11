@@ -1,11 +1,17 @@
 
-## **Dmitry Shelenkov**
+## **Dmitry Shelenkov** ##
 
-## Junior Full Stack Developer
+## Junior Full Stack Developer ##
 
-### HTML, CSS, Java Script, PHP, SQL, AJAX ### 
+### My Skills: ### 
+#### *HTML* ####
+#### *CSS* ####
+#### *Java Script* ####
+#### *PHP* ####
+--- 
 
-## Contacts
+### Contacts ###
+
 * Phone: +7 926 7157097  
 * E-mail: [wamp@mail.ru](mailto:wamp@mail.ru) 
 
