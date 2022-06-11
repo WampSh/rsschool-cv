@@ -14,9 +14,10 @@
 
 * Phone: +7 926 7157097  
 * E-mail: [wamp@mail.ru](mailto:wamp@mail.ru) 
+* GitHUB: [WampSh](https://github.com/WampSh) 
 
 ---
-
+### Simple Code: ###
 ``` JavaScript
 function multiply(a, b){
   return a * b
